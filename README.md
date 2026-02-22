@@ -1,4 +1,4 @@
-<img width="1918" height="1027" alt="response" src="https://github.com/user-attachments/assets/bb17c013-1f28-47dd-8acd-e444adc4c46d" />
+
 ---
 
 # 🚀 **RAG Chatbot — AI Document Question Answering System**
@@ -239,7 +239,6 @@ frontend/index.html
 
 **Upayan Chatterjee**
 
-* AI Engineer & Full Stack Developer
 * Interested in LLMs, AI systems, and real-world applications
 
 ---
@@ -250,13 +249,4 @@ Give it a ⭐ on GitHub — it helps!
 
 ---
 
-If you want, I can next help you make this even more **industry-level portfolio ready**, like:
 
-✅ animated README with badges
-✅ GitHub shields (build, license, python version etc.)
-✅ architecture diagram image
-✅ deployment section
-✅ demo video section
-✅ professional project description for placements
-
-Just tell me 👍
