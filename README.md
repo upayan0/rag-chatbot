@@ -1,4 +1,4 @@
-
+<img width="1918" height="1027" alt="response" src="https://github.com/user-attachments/assets/bb17c013-1f28-47dd-8acd-e444adc4c46d" />
 ---
 
 # 🚀 **RAG Chatbot — AI Document Question Answering System**
@@ -45,12 +45,15 @@ User → Frontend UI → FastAPI Backend → FAISS Vector Search → LLM Respons
 # 🖼️ **Screenshots**
 
 ## 📊 System Overview
+<img width="1910" height="1031" alt="overview" src="https://github.com/user-attachments/assets/1418d113-5583-4a91-a05e-5ad7c4446e8c" />
 
 <img src="overview.png" width="900">
 
 ---
 
 ## 💬 Chatbot Response Interface
+<img width="1918" height="1027" alt="response" src="https://github.com/user-attachments/assets/e6d369e6-fdf4-4cc7-ab4d-25051eb498f5" />
+
 
 <img src="response.png" width="900">
 
